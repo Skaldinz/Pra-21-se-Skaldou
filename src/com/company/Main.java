@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Ahoj svete");
         System.out.println("Zelena je tráva, zajda neda klik");
         System.out.println("Karbanova máma, má chuť na piknik");
+        System.out.println("A Ondra jde do KFC na kyblík");
     }
 }
